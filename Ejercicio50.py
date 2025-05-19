@@ -1,5 +1,3 @@
-
-
 from sympy import symbols, factor
 
 # Definir las variables
